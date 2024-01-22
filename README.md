@@ -5,29 +5,30 @@ I am interested in the web front end and want to become a front-end engineer, wh
 
 # 💻 Tech Stack:
 <div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
-  <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
-  <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-  <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+
   
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
-  <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
-  <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
+
   
-  <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
-  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat">
-  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
+
   
-  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-  <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
 </div>
 
 <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
   <img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
+  <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+  <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+</div>
+
+<div style="display: inline-block;">
+  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat">
+  <img src="https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=flat">
+  <img src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&style=flat">
+  <img src="https://img.shields.io/badge/Java-007396.svg?logo=java&style=flat">
+  <img src="https://img.shields.io/badge/-Objective--C-000.svg?logo=objective-c&style=flat">
+  <img src="https://img.shields.io/badge/R-276DC3.svg?logo=r&style=flat">
 </div>
 
 <div style="display: inline-block;">
@@ -35,6 +36,7 @@ I am interested in the web front end and want to become a front-end engineer, wh
   <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
   <img src="https://img.shields.io/badge/-Next.js-000.svg?logo=next-dot-js&style=flat">
   <img src="https://img.shields.io/badge/-Express-000.svg?logo=express&style=flat">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
 </div>
 
 <div style="display: inline-block;">
@@ -56,7 +58,9 @@ I am interested in the web front end and want to become a front-end engineer, wh
 </div>
 
 <div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Operating%20System-Linux-FCC624.svg?logo=linux&style=flat">
+  <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
+  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat">
+  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
 </div>
 
 <div style="display: inline-block;">

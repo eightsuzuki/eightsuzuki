@@ -24,17 +24,10 @@ I am interested in the web front end and want to become a front-end engineer, wh
 
 
 # 📊 GitHub Stats:
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SNQ-2001&theme=dracula" /><br/>
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=SNQ-2001&theme=dracula&hide_border=false" /><br/>
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=SNQ-2001&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=SNQ-2001&theme=dracula&show_icons=ture&count_private=true" />
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eightsuzuki&theme=dracula" /><br/>
+<img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=eightsuzuki&theme=dracula&hide_border=false" /><br/>
+<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=eightsuzuki&layout=compact&show_icons=true&theme=dracula" />
+<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=eightsuzuki&theme=dracula&show_icons=ture&count_private=true" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SNQ-2001&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SNQ-2001&limit=10&theme=dracula&combine_all_yearly_contributions=true&hide=B)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=SNQ-2001&icon=0&color=0)](https://visitcount.itsvg.in)

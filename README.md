@@ -30,4 +30,4 @@ I am interested in the web front end and want to become a front-end engineer, wh
 <img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=eightsuzuki&theme=dracula&show_icons=ture&count_private=true" />
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SNQ-2001&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=eightsuzuki&theme=dracula&no-frame=false&no-bg=false&margin-w=4)

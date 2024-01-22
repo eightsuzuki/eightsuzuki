@@ -4,14 +4,6 @@ Hello! I'm Eight Suzuki, a student at Waseda Uni in Japan.
 I am interested in the web front end and want to become a front-end engineer, which I started studying at the end of 2022.
 
 # 💻 Tech Stack:
-<div style="display: inline-block;">
-
-  
-
-  
-
-  
-</div>
 
 <div style="display: inline-block;">
   <img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
@@ -20,9 +12,6 @@ I am interested in the web front end and want to become a front-end engineer, wh
   <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
   <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
   <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-</div>
-
-<div style="display: inline-block;">
   <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat">
   <img src="https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=flat">
   <img src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&style=flat">

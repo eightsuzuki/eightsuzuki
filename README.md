@@ -27,7 +27,10 @@ For more information, please visit ***[My Site](https://eightsuzuki.github.io/)*
   <img src="https://img.shields.io/badge/-React-555.svg?logo=react&style=flat">
   <img src="https://img.shields.io/badge/-Next.js-000.svg?logo=next-dot-js&style=flat">
   <img src="https://img.shields.io/badge/-Express-000.svg?logo=express&style=flat">
+  <img src="https://img.shields.io/badge/-Axios-3355CC.svg?logo=axios&style=flat">
+  <img src="https://img.shields.io/badge/Library-jQuery-0769AD.svg?logo=jquery&style=flat">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
+  <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC.svg?logo=tailwind-css&style=flat">
 </div>
 
 <div style="display: inline-block;">

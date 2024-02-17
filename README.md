@@ -14,12 +14,8 @@ For more information, please visit ***[My Site](https://eightsuzuki.github.io/)*
   <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
   <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
   <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
-  <img src="https://img.shields.io/badge/-C-A8B9CC.svg?logo=c&style=flat">
   <img src="https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=flat">
   <img src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&style=flat">
-  <img src="https://img.shields.io/badge/Java-007396.svg?logo=java&style=flat">
-  <img src="https://img.shields.io/badge/-Objective--C-000.svg?logo=objective-c&style=flat">
-  <img src="https://img.shields.io/badge/R-276DC3.svg?logo=r&style=flat">
 </div>
 
 <div style="display: inline-block;">
@@ -43,18 +39,6 @@ For more information, please visit ***[My Site](https://eightsuzuki.github.io/)*
   <img src="https://img.shields.io/badge/Containerization-Docker-2496ED.svg?logo=docker&style=flat">
   <img src="https://img.shields.io/badge/-Docker Compose-2496ED.svg?logo=docker&style=flat">
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5.svg?logo=kubernetes&style=flat">
-</div>
-
-<div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032.svg?logo=git&style=flat">
-  <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
-  <img src="https://img.shields.io/badge/-GitLab-FCA121.svg?logo=gitlab&style=flat">
-</div>
-
-<div style="display: inline-block;">
-  <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
-  <img src="https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat">
-  <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
 </div>
 
 <div style="display: inline-block;">

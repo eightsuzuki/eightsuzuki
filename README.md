@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I'm Eight Suzuki, a student at Waseda Uni in Japan.
 
-I am interested in the web front end and want to become a front-end engineer, which I started studying at the end of 2022.  
+I am interested in Machine Learning and web front end.  
 
 For more information, please visit ***[My Site](https://eightsuzuki.github.io/)***.
 

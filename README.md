@@ -1,9 +1,11 @@
-# 💫 About Me:
-Hello! I'm Eight Suzuki, a student at Waseda Uni in Japan.
+# 💫 About Me
 
-I am interested in Machine Learning and web front end.  
+Hello! I'm **Eight Suzuki**, a graduate student at *Waseda University* in Japan, currently conducting research at the [Murata Laboratory](https://www.murata.eb.waseda.ac.jp/members/).
 
-For more information, please visit ***[My Site](https://eightsuzuki.github.io/)***.
+My academic interests lie in **Machine Learning** and **Web Front-End Development**, and I enjoy exploring how cutting-edge technologies can be applied to create impactful user experiences.
+
+For more details about my projects and experience, feel free to check out  
+👉 **[My Portfolio Site](https://eightsuzuki.github.io/)**
 
 # 💻 Tech Stack:
 

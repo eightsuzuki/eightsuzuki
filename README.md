@@ -2,7 +2,7 @@
 
 Hello! I'm **Eight Suzuki**, a graduate student at *Waseda University* in Japan, currently conducting research at the [Murata Laboratory](https://www.murata.eb.waseda.ac.jp/members/).
 
-My academic interests lie in **Machine Learning** and **Web Front-End Development**, and I enjoy exploring how cutting-edge technologies can be applied to create impactful user experiences.
+My academic interests lie in **Machine Learning**, and I enjoy exploring how cutting-edge technologies can be applied to create impactful user experiences.
 
 For more details about my projects and experience, feel free to check out  
 👉 **[My Portfolio Site](https://eightsuzuki.github.io/)**
